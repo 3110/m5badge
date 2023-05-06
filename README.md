@@ -9,7 +9,7 @@ M5JPTour2023で配布されたM5Badgeを利用するサンプルプログラム�
 
 ATOMS3にM5Badgeを接続してUIFlow2 Alpha-11で動作確認をしています。
 
-### LED位置表示（`m5bade-led-position.m5f2`）
+### LED位置表示（`m5badge-led-position.m5f2`）
 
 ![M5Badge](images/m5badge-led-position.jpg)
 
